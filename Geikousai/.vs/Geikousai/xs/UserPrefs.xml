@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{5DA2CC90-A65D-26ED-D711-3A7465CE4297}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TestMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TestMove.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Geikousai" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="51598081-3a0c-4bd8-b5b7-efcfe6e717e4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
